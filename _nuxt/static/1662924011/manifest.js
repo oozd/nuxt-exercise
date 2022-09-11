@@ -1,0 +1,1 @@
+__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002FmountainsWithFetchHook","\u002FmountainsWithAsyncDataHook","\u002Fmount-kosciuszko","\u002Fmount-everest","\u002Fmount-kilimanjaro","\u002Fmount-blanc","\u002Faconcagua","\u002Fdenali","\u002Fvinson-massif"]})
