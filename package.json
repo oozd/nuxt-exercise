@@ -4,10 +4,15 @@
         "dev": "nuxt",
         "build": "nuxt build",
         "generate": "nuxt generate",
-        "start": "nuxt start"
+        "start": "nuxt start",
+        "predeploy": "nuxt generate",
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "@nuxtjs/vuetify": "~1.12.3",
         "nuxt": "~2.15.8"
+    },
+    "devDependencies": {
+        "gh-pages": "~4.0.0"
     }
 }
